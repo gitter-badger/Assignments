@@ -1,4 +1,4 @@
-package se.pigno.www.assignment_01;
+package se.pigno.www.devtraining;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
