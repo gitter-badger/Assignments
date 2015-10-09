@@ -10,7 +10,7 @@ import android.widget.Toast;
 public class BtnTest extends Activity {
     class ButtonEvent implements View.OnClickListener{
         public void onClick(View v){
-            Toast.makeText(getApplicationContext(),"Hello android",Toast.LENGTH_SHORT).show();
+            Toast.makeText(getApplicationContext(),"Hello world",Toast.LENGTH_SHORT).show();
         }
     }
     @Override
