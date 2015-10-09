@@ -2,4 +2,4 @@
 
 
 
-![Assignment 01](http://61.106.13.43/KakaoTalk_20151008_171441684.jpg)
+![Assignment 01](https://github.com/DevStudent/Assignments/tree/LUS/GroupStudy/첫번째 과제.png)
