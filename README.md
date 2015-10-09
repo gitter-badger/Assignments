@@ -1,5 +1,7 @@
 # Assignments
 
+[![Join the chat at https://gitter.im/DevStudent/Assignments](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/DevStudent/Assignments?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 > 막을수 없는 DevStudents 노예제도
 
 ----
